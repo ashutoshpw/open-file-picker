@@ -1,0 +1,23 @@
+{
+  "name": "open-file-picker",
+  "version": "1.0.0",
+  "description": "Open File Picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ashutoshpw/open-file-picker.git"
+  },
+  "author": "Ashutosh Kumar (ashutosh@w3dev.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshpw/open-file-picker/issues"
+  },
+  "homepage": "https://github.com/ashutoshpw/open-file-picker#readme",
+  "dependencies": {
+    "aws-sdk": "^2.7.17",
+    "express": "^4.14.0"
+  }
+}
